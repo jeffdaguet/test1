@@ -1,0 +1,19 @@
+.conteneur {      
+        width:800px;
+        height:756px ;
+		
+        border:1px solid black;
+		background-color:#00BFFF;
+		   }
+		   .flotteB {
+        float:relative;
+		
+		height:546px;
+        width:799px;
+		
+		margin-top:0px;
+		margin-left:0px;
+        background-color:silver;
+        border:1px solid black;
+		
+	     }

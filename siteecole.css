@@ -1,0 +1,50 @@
+.conteneur {      
+        width:800px;
+        height:756px ;
+        border:1px solid black;
+		   }
+.flotteA {
+        float:relative;
+		height:450px;
+        width:798px;
+		margin-top:0px;
+		margin-left:0px;
+        background-color:#52A0FF;
+        border:1px solid black;
+	     }
+.flotteB{
+        float:relative;
+		height:200px;
+        width:400px;
+		margin-top:0px;
+		margin-left:0px;
+        background-color:#91A1DB;
+        border:1px solid black;
+	     }
+.flotteC{
+        float:relative;
+		height:200px;
+        width:396px;
+		margin-top:-202px;
+		margin-left:402px;
+        background-color:#91A1DB;
+        border:1px solid black;
+	     }
+.flotteD{
+        float:relative;
+		height:100px;
+        width:798px;
+		margin-top:0px;
+		margin-left:0px;
+        background-color:#E7A1DB;
+        border:1px solid black;
+		
+		
+		
+		
+		
+		
+	     }		 
+h1{
+text-align: center;}
+h3{}
